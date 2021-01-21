@@ -1,0 +1,48 @@
+What is typescript ?
+
+developed by microsoft 
+Superset of javascript 
+superset - Anything that you can do it javascript can do in typescript 
+compiles code into standard javascript  ( browser can only read javascript)
+can easiy integrated into javascript projects
+Desined for developement of large applications
+
+
+What does it offer ?
+--------------------
+1. static type checking  - we can check and assign variables, 
+                           parameters and function types
+2. class based objects
+3. Modularity 
+4. ES6 fatures (let, const)
+
+types
+--------
+String
+Number
+Boolean
+Array
+Any
+Void
+null
+Tuple
+Enum
+Generics
+
+
+Enums
+-------
+Allows us to define a set of named constants
+
+typescript provides both numeric and static based enums
+
+Generics
+----------
+When we are writing programs, one of the most important aspects is to 
+build re-usable components. 
+
+Generics offers a way to create reusable components
+
+1. Type Safety
+2. Code Re-usability
+

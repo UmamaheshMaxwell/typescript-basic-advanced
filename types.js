@@ -1,0 +1,35 @@
+console.log("Hello from Typescript");
+var myString;
+myString = "Hello World";
+console.log(myString);
+var myNum;
+myNum = 1;
+console.log(myNum);
+var myBool;
+myBool = false;
+console.log(myBool);
+var myVar;
+myVar = "hello";
+myVar = 1;
+myVar = true;
+console.log(myVar);
+var strArry;
+strArry = ["Hello", "World", "Welcome"];
+console.log(strArry);
+var numArray;
+numArray = [1, 2, 3, 4];
+console.log(numArray);
+var studentId = 1;
+var studentName = "Uma";
+var student = [studentName, studentId, "Welcome"];
+console.log(student);
+var employee = ["string", 1, "hello"];
+console.log(employee);
+function sayHello() {
+    return 1;
+}
+console.log(sayHello());
+var value1 = null;
+var value2;
+console.log(value1);
+console.log(value2);
