@@ -46,3 +46,22 @@ Generics offers a way to create reusable components
 1. Type Safety
 2. Code Re-usability
 
+Data Modifiers
+--------------
+public
+private
+protected
+
+
+Public
+-------
+By default all memebers of a class in Typescript are public.
+All members can be accessed from anywhere
+
+private
+----------
+can be accessed with in the class 
+
+protected
+---------
+Access with in the class and also from inherited classes
